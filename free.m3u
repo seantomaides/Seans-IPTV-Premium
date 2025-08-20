@@ -1,0 +1,47 @@
+#EXTM3U
+
+# 🇳🇬 Big Brother Naija
+#EXTINF:-1 group-title="DSTV - Nigeria", Big Brother Naija 24/7
+https://d2yxu0gr4ksneg.cloudfront.net/out/v1/bbnaija/index.m3u8
+
+# 🇳🇬 Africa Magic Channels
+#EXTINF:-1 group-title="DSTV - Africa Magic", Africa Magic Yoruba
+https://siloh.pluto.tv/lilo/production/AfricaMagicYoruba/master.m3u8
+
+#EXTINF:-1 group-title="DSTV - Africa Magic", Africa Magic Hausa
+https://siloh.pluto.tv/lilo/production/AfricaMagicHausa/master.m3u8
+
+#EXTINF:-1 group-title="DSTV - Africa Magic", Africa Magic Igbo
+https://siloh.pluto.tv/lilo/production/AfricaMagicIgbo/master.m3u8
+
+#EXTINF:-1 group-title="DSTV - Africa Magic", Africa Magic Urban
+https://siloh.pluto.tv/lilo/production/AfricaMagicUrban/master.m3u8
+
+#EXTINF:-1 group-title="DSTV - Africa Magic", Africa Magic Epic
+https://siloh.pluto.tv/lilo/production/AfricaMagicEpic/master.m3u8
+
+# 🇿🇦 SuperSport Channels
+#EXTINF:-1 group-title="DSTV - Sports", SuperSport Football
+https://d2yxu0gr4ksneg.cloudfront.net/out/v1/supersportfootball/index.m3u8
+
+#EXTINF:-1 group-title="DSTV - Sports", SuperSport Premier League
+https://d2yxu0gr4ksneg.cloudfront.net/out/v1/supersportpremierleague/index.m3u8
+
+#EXTINF:-1 group-title="DSTV - Sports", SuperSport La Liga
+https://d2yxu0gr4ksneg.cloudfront.net/out/v1/supersportlaliga/index.m3u8
+
+#EXTINF:-1 group-title="DSTV - Sports", SuperSport Variety 1
+https://d2yxu0gr4ksneg.cloudfront.net/out/v1/supersportvariety1/index.m3u8
+
+#EXTINF:-1 group-title="DSTV - Sports", SuperSport Blitz
+https://d2yxu0gr4ksneg.cloudfront.net/out/v1/supersportblitz/index.m3u8
+
+#EXTINF:-1 group-title="DSTV - Sports", SuperSport Action
+https://d2yxu0gr4ksneg.cloudfront.net/out/v1/supersportaction/index.m3u8
+
+# 🇿🇦 Entertainment
+#EXTINF:-1 group-title="DSTV - Entertainment", M-Net
+https://siloh.pluto.tv/lilo/production/MNet/master.m3u8
+
+#EXTINF:-1 group-title="DSTV - Entertainment", Channel O
+https://siloh.pluto.tv/lilo/production/ChannelO/master.m3u8
