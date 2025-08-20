@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="bbnaija" tvg-logo="https://i.imgur.com/xdz7pOj.png" group-title="Entertainment",Big Brother Naija 24/7
+http://146.59.14.24:8080/bbnaija/index.m3u8
+
+#EXTINF:-1 tvg-id="ssblitz" tvg-logo="https://i.imgur.com/E6r2f7G.png" group-title="Sports",SuperSport Blitz
+http://51.79.193.106:8080/supersportblitz/index.m3u8
+
+#EXTINF:-1 tvg-id="ss1" tvg-logo="https://i.imgur.com/Vc6vM1y.png" group-title="Sports",SuperSport 1
+http://51.79.193.106:8080/supersport1/index.m3u8
+
+#EXTINF:-1 tvg-id="ss2" tvg-logo="https://i.imgur.com/mWftF8d.png" group-title="Sports",SuperSport 2
+http://51.79.193.106:8080/supersport2/index.m3u8
+
+#EXTINF:-1 tvg-id="ss3" tvg-logo="https://i.imgur.com/79wUuf6.png" group-title="Sports",SuperSport 3
+http://51.79.193.106:8080/supersport3/index.m3u8
+
+#EXTINF:-1 tvg-id="ss4" tvg-logo="https://i.imgur.com/E7ItEea.png" group-title="Sports",SuperSport 4
+http://51.79.193.106:8080/supersport4/index.m3u8
+
+#EXTINF:-1 tvg-id="ss5" tvg-logo="https://i.imgur.com/Mx8O8N2.png" group-title="Sports",SuperSport 5
+http://51.79.193.106:8080/supersport5/index.m3u8
+
+#EXTINF:-1 tvg-id="ss6" tvg-logo="https://i.imgur.com/NEgxFQ9.png" group-title="Sports",SuperSport 6
+http://51.79.193.106:8080/supersport6/index.m3u8
